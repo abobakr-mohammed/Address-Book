@@ -1,0 +1,14 @@
+C:\Users\bebom\source\repos\AddressBook\DataTier\obj\Debug\net6.0\DataTier.csproj.AssemblyReference.cache
+C:\Users\bebom\source\repos\AddressBook\DataTier\obj\Debug\net6.0\DataTier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bebom\source\repos\AddressBook\DataTier\obj\Debug\net6.0\DataTier.AssemblyInfoInputs.cache
+C:\Users\bebom\source\repos\AddressBook\DataTier\obj\Debug\net6.0\DataTier.AssemblyInfo.cs
+C:\Users\bebom\source\repos\AddressBook\DataTier\obj\Debug\net6.0\DataTier.csproj.CoreCompileInputs.cache
+C:\Users\bebom\source\repos\AddressBook\DataTier\bin\Debug\net6.0\DataTier.deps.json
+C:\Users\bebom\source\repos\AddressBook\DataTier\bin\Debug\net6.0\DataTier.runtimeconfig.json
+C:\Users\bebom\source\repos\AddressBook\DataTier\bin\Debug\net6.0\DataTier.dll
+C:\Users\bebom\source\repos\AddressBook\DataTier\bin\Debug\net6.0\DataTier.pdb
+C:\Users\bebom\source\repos\AddressBook\DataTier\obj\Debug\net6.0\DataTier.dll
+C:\Users\bebom\source\repos\AddressBook\DataTier\obj\Debug\net6.0\refint\DataTier.dll
+C:\Users\bebom\source\repos\AddressBook\DataTier\obj\Debug\net6.0\DataTier.pdb
+C:\Users\bebom\source\repos\AddressBook\DataTier\obj\Debug\net6.0\DataTier.genruntimeconfig.cache
+C:\Users\bebom\source\repos\AddressBook\DataTier\obj\Debug\net6.0\ref\DataTier.dll
